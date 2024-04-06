@@ -171,7 +171,7 @@ public class Lista {
 ```
 
 
-# Classe Lista
+# Classe Principal
 
 ```java
 package padrao;
